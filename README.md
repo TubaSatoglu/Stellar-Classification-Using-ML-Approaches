@@ -7,7 +7,7 @@ This repository contains a deep learning framework designed to classify stars ba
 
 ### Acknowledgements 
 
-We would like to express our gratitude to Prof. Dr. A-Li Luo and their PhD student, Jun-Chao Liang, for providing the processed datasets, guidance, and the comprehensive catalog utilized in this study. 
+We would like to express our gratitude to Prof. Dr. A-Li Luo and Jun-Chao Liang, for providing the processed datasets, guidance, and the comprehensive catalog utilized in this study. 
 
 The dataset and atmospheric parameter estimations (covering $T_{\text{eff}}$, $\log g$, $[\text{Fe/H}]$, and $[\alpha/\text{Fe}]$) for the LAMOST O-M-type stars used in this work are based on their spectral emulator framework. The official parameter catalog can be downloaded from the National Astronomical Data Center (NADC) via: [LAMOST O-M Stars Parameter Catalog (doi:10.12149/101402)](https://nadc.china-vo.org/res/r101402/)
 
